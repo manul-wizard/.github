@@ -7,7 +7,7 @@
 
 ### Manul Wizard
 
-Small indie games and free, open-source apps for Android and the web.
+Indie games, apps and open-source tools.
 
 </div>
 
