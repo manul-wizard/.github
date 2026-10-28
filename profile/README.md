@@ -20,6 +20,11 @@ Indie games, apps and open-source tools.
 
 No ads, no account, no tracking. Source code and Android test builds: [interval-apps](https://github.com/manul-wizard/interval-apps).
 
+## Tools
+
+- **[tui-weather](https://github.com/manul-wizard/tui-weather)** — the weather in your terminal: right now, hour by hour and for the week. No account, no API key; asks several free services and keeps working when one is down.<br>
+  [Releases](https://github.com/manul-wizard/tui-weather/releases)
+
 ## Games
 
 - **[Heroes and Dice](https://github.com/LLarean/dice-battle)** — a small mobile dice battler: roll, keep, reroll and beat ten enemies on the way to the dragon. *Work in progress.*
